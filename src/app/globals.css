@@ -1,6 +1,12 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background-primary: #020202;
+  --background-secondary: #1a1a1b;
+  --background-tertiary: #5c527f;
+  --background-sec-two: #323233;
+  --text-color: #b4b6b8;
+  --button-white: #d7dadc;
+  --icon-color-yellow: #f0c929;
+  --icon-color-blue: #2b7bcd;
 }
 
 @media (prefers-color-scheme: dark) {
